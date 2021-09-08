@@ -13,7 +13,8 @@ class Parent
         System.out.println("hello i am parent fxn");
     }
 }
-class Child extends Parent
+class Child extends Parent  
+  
 {
     int cdata=200;
     void cfxn()

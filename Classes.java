@@ -7,17 +7,8 @@ public class Classes{
     }
 }
 // num      
-
-
-
-
-
 //a
-
-
 /*ZS
-
-
 0.0.
 .0.0.
 hii
